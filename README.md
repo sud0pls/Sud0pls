@@ -1,5 +1,3 @@
-**Red Team Operations**
-  
 Just trying to learn something.
 
 **Contributions**
